@@ -4,19 +4,12 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Kia+Ora%2C+it's+Ana+Moura!;Frontend+Developer" alt="Full Stack"/>
 </a>
 
-<p align="center">
+<p>
   <img src="./assets/terminal.gif" alt="Terminal about Ana Moura" width="700">
 </p>
 
 ---
 
-## About me
-
-- 🐍 I **teach Python to kids** — turning "I don't get it" into "look what I made!"
-- 🥋 I help build **DOJO**, a learning platform for coding schools
-- 🎓 Recently graduated in IT, and still learning every day
-- 🌏 Brazilian, living in Auckland
-- ⚡ Still learning, still building, still surprised when it works first try!
 
 ## Main skills
 
