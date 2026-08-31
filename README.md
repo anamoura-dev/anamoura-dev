@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Kia+Ora%2C+it's+Ana+Moura!;Frontend+Developer" alt="Full Stack"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=35&duration=4500&pause=500&color=D9BED1&width=435&lines=Kia+Ora%2C+it's+Ana+Moura!;Frontend+Developer" alt="Full Stack"/>
 </a>
 
 <p>
@@ -14,13 +14,13 @@
 ## Main skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,php,react,nodejs,git,github,vscode" alt="skills">
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,php,react,nodejs,git,github,vscode&theme=light" alt="skills">
 </p>
 
 ## Studying
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,mysql" alt="studying">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,mysql,figma&theme=light" alt="studying">
 </p>
 
 ## Projects
@@ -33,15 +33,14 @@
 | [secret-number-game](https://github.com/anamoura-dev/secret-number-game) | Guess the number, with voice recognition |
 | [about-me](https://github.com/anamoura-dev/about-me) | My first personal page |
 
-## GitHub stats
+### Connect with me!
+<div>
+    <a href="https://www.linkedin.com/in/ana-moura-4aa65924b">
+      <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn">
+    </a>
+    <a href="mailto:maisanacarolina@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail">    
+    </a>
+</div>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anamoura-dev&show_icons=true&hide_border=true&theme=tokyonight" alt="stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamoura-dev&layout=compact&hide_border=true&theme=tokyonight" alt="top languages">
-</p>
-
-## Let's talk
-
-<p>
-  <a href="https://github.com/anamoura-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
