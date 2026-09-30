@@ -31,7 +31,7 @@
 | [pocket-stylist](https://github.com/anamoura-dev/pocket-stylist) | Wardrobe and outfit app |
 | [cabsonline](https://github.com/anamoura-dev/cabsonline) | Full-stack ride booking system |
 | [secret-number-game](https://github.com/anamoura-dev/secret-number-game) | Guess the number, with voice recognition |
-| [about-me](https://github.com/anamoura-dev/about-me) | My first personal page |
+| [about-me](https://github.com/anamoura-dev/clinica-da-leveza) | My first project for a real client |
 
 ### Connect with me!
 <div>
